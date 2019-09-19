@@ -4,13 +4,15 @@ This module allows you to use WeTransfer services directly, from python 3.x.
 
 It is based on current WeTransfer API V2: https://developers.wetransfer.com/documentation
 
-This project is forked from the py3wetransfer repository that was maintained by Francois Liot. You can still find it [here](https://github.com/fliot/py3wetransfer). It seems, however, that it is no longer maintained.
+Project team:
+- Francois Liot (Author)
+- Sander Huijsen (Heavy Contributor)
 
 ## Installation
 
 Install through Pypi:
 ```sh
-pip install py3-wetransfer
+pip install py3wetransfer
 ```
 
 ## Functional features
